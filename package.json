@@ -5,10 +5,14 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "firebase": "^9.22.1"
+    "firebase": "^9.22.1",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
+  },
+  "engines": {
+    "npm": ">=11.0.0"
   }
 }
